@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://covid19blog.github.io/sitemap.xml
