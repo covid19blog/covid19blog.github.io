@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://covid19blog.github.io/tag/quarantine/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://covid19blog.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-12-20T01:21:36+09:00</updated>
+  <id>https://covid19blog.github.io/tag/quarantine/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">COVID-19 | </title>
+  
+
+  
+    <subtitle>COVID-19 공식 정보</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">안산시 방역일일보고(2020. 10. 14.)</title>
+      <link href="https://covid19blog.github.io/qs-end" rel="alternate" type="text/html" title="안산시 방역일일보고(2020. 10. 14.)" />
+      <published>2020-10-14T09:00:00+09:00</published>
+      <updated>2020-10-14T09:00:00+09:00</updated>
+      <id>https://covid19blog.github.io/qs-end</id>
+      <content type="html" xml:base="https://covid19blog.github.io/qs-end">&lt;p&gt;안산시 10월 14일 방역일일보고 입니다.&lt;/p&gt;
+
+&lt;p&gt;다중이용시설 315개소 및 확진자 이동동선 7개소&lt;/p&gt;
+
+&lt;p&gt;방역은 많은 시민이 이용하는 장소 위주로 순차적으로 실시하고 있으며 개인주택 내부, 사유지등은 방역해드리기 어려우니 양해 부탁드립니다&lt;/p&gt;
+
+&lt;p&gt;소독의무대상시설들은 법정소독횟수를 준수하여 자체소독을 해주시기 바랍니다.&lt;/p&gt;
+
+&lt;방역물품 무상대여=&quot;&quot; 서비스=&quot;&quot;&gt;
+
+(기간) '20. 3. 12.(목)~ 상황종료시
+(시간) 평일 10~18시 / 오전 9~10시는 장비정비 및 소독약 보충
+(대여장소) 동 행정복지센터(25개동) + 외국인주민지원본부
+(대여품목)
+- 소독기 대여[용량 20L, 5~7L, 2L] * 최대 2시간
+- 소독약 배부[소독액1L + 물200L로 희석] =&amp;gt; 개별용기에 보충(스티커 부착)
+- 부직포 행주[소진시 까지 한시적 제공]
+&lt;/방역물품&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>COVID-19</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Quarantine" />
+      
+
+      
+        <summary type="html">안산시 10월 14일 방역일일보고 입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
