@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://covid19blog.github.io/tag/policy/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://covid19blog.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-12-19T23:49:37+09:00</updated>
+  <id>https://covid19blog.github.io/tag/policy/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">COVID-19 | </title>
+  
+
+  
+    <subtitle>COVID-19 공식 정보</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">2020년 12월 08일 - “증상 없어도 의심 된다면 코로나19 검사 받아주세요”</title>
+      <link href="https://covid19blog.github.io/gp-distancing" rel="alternate" type="text/html" title="2020년 12월 08일 - &quot;증상 없어도 의심 된다면 코로나19 검사 받아주세요&quot; &lt;수도권 임시선별검사소&gt;" />
+      <published>2020-12-14T09:00:00+09:00</published>
+      <updated>2020-12-14T09:00:00+09:00</updated>
+      <id>https://covid19blog.github.io/gp-distancing</id>
+      <content type="html" xml:base="https://covid19blog.github.io/gp-distancing">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; 정부의 여러 지침을 나누어 구성 &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./gp-ordinary&quot;&gt;공지사항 - 일반인 &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./gp-distancing&quot;&gt;공지사항 - 사회적 거리두기 단계&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;오늘(12.14)부터 코로나19
+감염 위험이 집중된 수도권을 중심으로
+선제적 진단검사를 시작합니다.&lt;/p&gt;
+
+&lt;p&gt;증상 유무 및 역학적 연관성 관계 없어도
+누구나 검사 받으실 수 있으니,&lt;/p&gt;
+
+&lt;p&gt;조금이라도 의심 된다면 망설이지 말고
+가까운 임시선별검사소를 방문하셔서
+코로나19 검사 받아주시길 바랍니다.&lt;/p&gt;
+
+&lt;임시선별검사소 운영=&quot;&quot; 안내=&quot;&quot;&gt;
+'20년 12월 14일 ~ '21년 1월 3일
+오전 9시부터 저녁 6시까지
+&lt;/임시선별검사소&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>COVID-19</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Policy" />
+      
+
+      
+        <summary type="html">정부의 여러 지침을 나누어 구성 공지사항 - 일반인 공지사항 - 사회적 거리두기 단계</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2020년 12월 08일 - 정부 방침</title>
+      <link href="https://covid19blog.github.io/gp-distancing" rel="alternate" type="text/html" title="2020년 12월 08일 - 정부 방침" />
+      <published>2020-12-08T09:00:00+09:00</published>
+      <updated>2020-12-08T09:00:00+09:00</updated>
+      <id>https://covid19blog.github.io/gp-distancing</id>
+      <content type="html" xml:base="https://covid19blog.github.io/gp-distancing">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; 정부의 여러 지침을 나누어 구성 &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./gp-ordinary&quot;&gt;공지사항 - 일반인 &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./gp-distancing&quot;&gt;공지사항 - 사회적 거리두기 단계&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;12월 8일 0시&lt;/p&gt;
+
+&lt;p&gt;수도권의 사회적 거리두기 2.5단계로 격상.&lt;/p&gt;
+
+&lt;p&gt;비수도권 사회적 거리두기 2단계로 격상.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>COVID-19</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Policy" />
+      
+
+      
+        <summary type="html">정부의 여러 지침을 나누어 구성 공지사항 - 일반인 공지사항 - 사회적 거리두기 단계</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://covid19blog.github.io/author/COVID-19/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://covid19blog.github.io/tag/confirmed/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://covid19blog.github.io/" rel="alternate" type="text/html" />
   <updated>2020-12-19T23:49:37+09:00</updated>
-  <id>https://covid19blog.github.io/author/COVID-19/feed.xml</id>
+  <id>https://covid19blog.github.io/tag/confirmed/feed.xml</id>
 
   
   
@@ -181,60 +181,6 @@
 
       
         <summary type="html">질병관리청 중앙방역대책본부(본부장 : 정은경 청장)는 12월 15일 0시 기준으로, 국내 발생 신규 확진자는 848명이 확인되었고, 해외유입 사례는 32명이 확인되어 총 누적 확진자 수는 44,364명(해외유입 4,962명)이라고 밝혔다.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">2020년 12월 08일 - “증상 없어도 의심 된다면 코로나19 검사 받아주세요”</title>
-      <link href="https://covid19blog.github.io/gp-distancing" rel="alternate" type="text/html" title="2020년 12월 08일 - &quot;증상 없어도 의심 된다면 코로나19 검사 받아주세요&quot; &lt;수도권 임시선별검사소&gt;" />
-      <published>2020-12-14T09:00:00+09:00</published>
-      <updated>2020-12-14T09:00:00+09:00</updated>
-      <id>https://covid19blog.github.io/gp-distancing</id>
-      <content type="html" xml:base="https://covid19blog.github.io/gp-distancing">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt; 정부의 여러 지침을 나누어 구성 &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./gp-ordinary&quot;&gt;공지사항 - 일반인 &lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./gp-distancing&quot;&gt;공지사항 - 사회적 거리두기 단계&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;오늘(12.14)부터 코로나19
-감염 위험이 집중된 수도권을 중심으로
-선제적 진단검사를 시작합니다.&lt;/p&gt;
-
-&lt;p&gt;증상 유무 및 역학적 연관성 관계 없어도
-누구나 검사 받으실 수 있으니,&lt;/p&gt;
-
-&lt;p&gt;조금이라도 의심 된다면 망설이지 말고
-가까운 임시선별검사소를 방문하셔서
-코로나19 검사 받아주시길 바랍니다.&lt;/p&gt;
-
-&lt;임시선별검사소 운영=&quot;&quot; 안내=&quot;&quot;&gt;
-'20년 12월 14일 ~ '21년 1월 3일
-오전 9시부터 저녁 6시까지
-&lt;/임시선별검사소&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>COVID-19</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Policy" />
-      
-
-      
-        <summary type="html">정부의 여러 지침을 나누어 구성 공지사항 - 일반인 공지사항 - 사회적 거리두기 단계</summary>
       
 
       
@@ -430,6 +376,45 @@
 
       
         <summary type="html">질병관리청 중앙방역대책본부(본부장 : 정은경 청장)는 12월 10일 0시 기준으로, 국내 발생 신규 확진자는 646명이 확인되었고, 해외유입 사례는 36명이 확인되어 총 누적 확진자 수는 40,098명(해외유입 4,825명)이라고 밝혔다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2020년 12월 09일 - 신규확진자</title>
+      <link href="https://covid19blog.github.io/nc-Dec" rel="alternate" type="text/html" title="2020년 12월 09일 - 신규확진자" />
+      <published>2020-12-09T09:00:00+09:00</published>
+      <updated>2020-12-09T09:00:00+09:00</updated>
+      <id>https://covid19blog.github.io/nc-Dec</id>
+      <content type="html" xml:base="https://covid19blog.github.io/nc-Dec">&lt;p&gt;질병관리청 중앙방역대책본부(본부장 : 정은경 청장)는 12월 8일 0시 기준으로, 
+국내 발생 신규 확진자는 566명이 확인되었고, 
+해외유입 사례는 28명이 확인되어 총 누적 확진자 수는 38,755명(해외유입 4,772명)이라고 밝혔다.&lt;/p&gt;
+
+&lt;p&gt;신규 격리해제자는 349명으로 총 29,650명(76.51%)이 격리해제되어, 현재 8,553명이 격리 중이다. 
+위중증 환자는 134명이며, 사망자는 3명으로 누적 사망자는 552명(치명률 1.42%)이다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>COVID-19</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Confirmed" />
+      
+
+      
+        <summary type="html">질병관리청 중앙방역대책본부(본부장 : 정은경 청장)는 12월 8일 0시 기준으로, 국내 발생 신규 확진자는 566명이 확인되었고, 해외유입 사례는 28명이 확인되어 총 누적 확진자 수는 38,755명(해외유입 4,772명)이라고 밝혔다.</summary>
       
 
       
